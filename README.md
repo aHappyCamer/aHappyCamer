@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey! I'm Joey 🙋🏻
+
+- 🔍 I'm looking for internship opportunities in mobile development 📱
+- 🌱 Currently learning flutter and graphic design
+- 🔭 Always working on my portfolio
+
+📫 Want to get in touch?
+- 📧 joeydcam@gmail.com
 
 <!--
 **aHappyCamer/aHappyCamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
