@@ -5,7 +5,7 @@
 - 🔭 Always working on my portfolio
 
 📫 Want to get in touch?
-- 📧 joeydcam@gmail.com
+- 📧  joeydcam@gmail.com
 
 <!--
 **aHappyCamer/aHappyCamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
