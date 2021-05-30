@@ -1,7 +1,7 @@
 ## Hey! I'm Joey 🙋🏻
 
 - 🔍 I'm looking for internship opportunities in mobile development 📱
-- 🌱 Currently learning flutter and graphic design
+- 🌱 Currently learning flutter and Reactjs
 - 🔭 Always working on my portfolio
 
 📫 Want to get in touch?
