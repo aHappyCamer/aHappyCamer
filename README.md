@@ -4,8 +4,7 @@
 - 🌱 Currently learning flutter and Reactjs
 - 🔭 Always working on my portfolio
 
-📫 Want to get in touch?
-- 📧  joeydcam@gmail.com
+📫 Want to get in touch? joeydcam[at]gmail[dot]com
 
 <!--
 **aHappyCamer/aHappyCamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
